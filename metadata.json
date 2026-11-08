@@ -1,0 +1,6 @@
+{
+  "name": "BIO-MOVE Lunar Biomechanics",
+  "description": "Biomechanical Joint-Assistance System & Telemetry Dashboard for Lunar Analogue Operations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
